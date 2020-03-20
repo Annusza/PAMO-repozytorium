@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">BMI Calc</string>
+
+    <string name="titleBmi">Body Mass Index Calculator</string>
+    <string name="titleCal">Required calories per day</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="sexW">Woman</string>
+    <string-array name="sexToList">
+        <item>Woman</item>
+        <item>Man</item>
+    </string-array>
+    <string name="calculateBodyMassIndex">Calculate Your BMI</string>
+    <string name="calculateCalories">Calculate required calories per day</string>
+    <string name="result">Result of calculation</string>
+    <string name="hintWeight">Your weight</string>
+    <string name="hintHeight">Your height</string>
+    <string name="hintAge">Your age</string>
+
+
+    <string name="fragStart">Hello</string>
+    <string name="fragCal">Calories</string>
+    <string name="fragRecipe">Recipe</string>
+
+    <string name="navStart">Start</string>
+    <string name="navBmi">BMI</string>
+    <string name="navCal">Calories</string>
+    <string name="navRecipe">Recipe for you</string>
 </resources>
