@@ -94,7 +94,7 @@ public class BodyMassIndexFragment extends Fragment {
                 resultOfBmi = "Third degree obesity"; // otyłość trzeciego stopnia
             }
 
-            String calculation = "Result: \n" + bodyMassIndex + "\n" + resultOfBmi;
+            String calculation = bodyMassIndex  +resultOfBmi;
 
             resultOfCalculation.setText(calculation);
 
