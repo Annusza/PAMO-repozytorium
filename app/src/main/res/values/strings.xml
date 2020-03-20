@@ -3,6 +3,8 @@
 
     <string name="titleBmi">Body Mass Index Calculator</string>
     <string name="titleCal">Required calories per day</string>
+    <string name="titleFood">What should we eat</string>
+
     <string name="weight">Weight</string>
     <string name="height">Height</string>
     <string name="age">Age</string>
@@ -12,6 +14,7 @@
         <item>Woman</item>
         <item>Man</item>
     </string-array>
+
     <string name="calculateBodyMassIndex">Calculate Your BMI</string>
     <string name="calculateCalories">Calculate required calories per day</string>
     <string name="result">Result of calculation</string>
@@ -28,4 +31,26 @@
     <string name="navBmi">BMI</string>
     <string name="navCal">Calories</string>
     <string name="navRecipe">Recipe for you</string>
+
+    <string name="amaretti">Soft Amaretti Cookies</string>
+
+    <string-array name="recipeListoOfGroceries">
+        <item>-> 2 1/4 cups (200g) almond flour or very finely ground almonds, sifted</item>
+        <item>-> 1 cup (200g) granulated sugar</item>
+        <item>-> pinch salt</item>
+        <item>-> 2 large egg whites (about 60 grams)</item>
+        <item>-> 1/4 teaspoon lemon juice</item>
+        <item>-> 1/2 teaspoon almond extract</item>
+        <item>-> confectioners’ sugar, as needed</item>
+    </string-array>
+
+    <string name="recipe">Preheat oven to 300 degrees F. Stack two matching, heavyweight, light to medium colored cookie sheets one inside the other (stacking two cookie sheets together keeps the bottoms of the cookies from getting too brown).
+        Line with parchment paper or a silicone baking mat.
+        In a large bowl, whisk together almond flour, sugar and salt until evenly incorporated.
+        In a mixing bowl or the bowl of a stand mixer fitted with the whisk attachment, whisk egg whites and lemon juice until they hold soft peaks.
+        Add beaten egg whites and almond extract to dry ingredients and stir until mixture forms a soft, sticky dough, kneading with your hands if necessary.
+        Lightly dust your hands with powdered sugar. Use a small cookie scoop to portion dough into 1-inch balls. Roll into a smooth ball, then roll in powdered sugar.
+        Arrange on parchment or silicon-lined baking sheets, leaving 1 inch of space between cookies.
+        Bake for 30 to 35 minutes until tops are cracked and bottoms are just barely golden (if you are NOT using doubled cookie sheets your cookies will brown much quicker, and will likely only need 25 minutes, so watch them closely).</string>
+
 </resources>

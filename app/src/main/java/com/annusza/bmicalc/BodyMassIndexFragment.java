@@ -14,7 +14,8 @@ import androidx.annotation.Nullable;
 
 public class BodyMassIndexFragment extends Fragment {
 
-    private EditText weight, height;
+    private EditText weight;
+    private EditText height;
     private TextView resultOfCalculation;
 
     @Nullable
@@ -36,7 +37,6 @@ public class BodyMassIndexFragment extends Fragment {
 
         return root;
     }
-
 
     private void calculateBodyMassIndex() {
 
