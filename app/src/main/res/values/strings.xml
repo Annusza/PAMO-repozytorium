@@ -4,6 +4,8 @@
     <string name="titleBmi">Body Mass Index Calculator</string>
     <string name="titleCal">Required calories per day</string>
     <string name="titleFood">What should we eat</string>
+    <string name="titleQuiz">Quiz</string>
+    <string name="titleStat">SARS-CoV2 by WHO</string>
 
     <string name="weight">Weight</string>
     <string name="height">Height</string>
@@ -17,10 +19,18 @@
 
     <string name="calculateBodyMassIndex">Calculate Your BMI</string>
     <string name="calculateCalories">Calculate required calories per day</string>
+    <string name="whatEat">What eat?</string>
     <string name="result">Result of calculation</string>
     <string name="hintWeight">Your weight</string>
     <string name="hintHeight">Your height</string>
     <string name="hintAge">Your age</string>
+    <string name="hintBmi">Your BMI</string>
+    <string name="alert">Write your BMI</string>
+    <string name="question">Question:</string>
+    <string name="points">0</string>
+    <string name="counter">1 z 9</string>
+    <string name="end">Try again</string>
+    <string name="zero">0</string>
 
 
     <string name="fragStart">Hello</string>
@@ -31,10 +41,13 @@
     <string name="navBmi">BMI</string>
     <string name="navCal">Calories</string>
     <string name="navRecipe">Recipe for you</string>
+    <string name="navQuiz">Quiz</string>
+    <string name="navStat">SARS-CoV-2</string>
+    <string name="navHome">Home</string>
 
-    <string name="amaretti">Soft Amaretti Cookies</string>
+    <string name="eat1">Soft Amaretti Cookies</string>
 
-    <string-array name="recipeListoOfGroceries">
+    <string-array name="recipeListoOfGroceries1">
         <item>-> 2 1/4 cups (200g) almond flour or very finely ground almonds, sifted</item>
         <item>-> 1 cup (200g) granulated sugar</item>
         <item>-> pinch salt</item>
@@ -44,7 +57,7 @@
         <item>-> confectioners’ sugar, as needed</item>
     </string-array>
 
-    <string name="recipe">Preheat oven to 300 degrees F. Stack two matching, heavyweight, light to medium colored cookie sheets one inside the other (stacking two cookie sheets together keeps the bottoms of the cookies from getting too brown).
+    <string name="recipe1">Preheat oven to 300 degrees F. Stack two matching, heavyweight, light to medium colored cookie sheets one inside the other (stacking two cookie sheets together keeps the bottoms of the cookies from getting too brown).
         Line with parchment paper or a silicone baking mat.
         In a large bowl, whisk together almond flour, sugar and salt until evenly incorporated.
         In a mixing bowl or the bowl of a stand mixer fitted with the whisk attachment, whisk egg whites and lemon juice until they hold soft peaks.
@@ -52,5 +65,111 @@
         Lightly dust your hands with powdered sugar. Use a small cookie scoop to portion dough into 1-inch balls. Roll into a smooth ball, then roll in powdered sugar.
         Arrange on parchment or silicon-lined baking sheets, leaving 1 inch of space between cookies.
         Bake for 30 to 35 minutes until tops are cracked and bottoms are just barely golden (if you are NOT using doubled cookie sheets your cookies will brown much quicker, and will likely only need 25 minutes, so watch them closely).</string>
+
+    <string name="eat2">Disney World\'s strawberry soup</string>
+
+    <string-array name="recipeListoOfGroceries2">
+        <item>-> 2 lbs frozen strawberries</item>
+        <item>-> 16 ounces heavy cream</item>
+        <item>-> 2 ounces sour cream</item>
+        <item>-> 3 ounces yogurt</item>
+        <item>-> 1/2 lb fresh strawberries</item>
+
+    </string-array>
+
+    <string name="recipe2">Thaw the frozen berries in their juices.
+        Blend all of the ingredients (except the fresh berries) on low until smooth.
+        Chill, shake well before serving.
+        Add fresh strawberry halves as a garnish.</string>
+
+    <string name="eat3">Mayonnaise sandwich</string>
+
+    <string-array name="recipeListoOfGroceries3">
+        <item>-> ½ cup eggless mayonnaise</item>
+        <item>-> 2 tbsp green capsicum, finely chopped</item>
+        <item>-> 2 tbsp red capsicum, finely chopped</item>
+        <item>-> ¼ carrot, grated</item>
+        <item>-> 2 tbsp corn, boiled</item>
+        <item>-> ¼ tsp pepper, crushed</item>
+        <item>-> ¼ tsp salt</item>
+        <item>-> 6 slices bread, white / brown</item>
+        <item>-> 6 tsp green chutney</item>
+        <item>-> 3 tsp butter</item>
+
+    </string-array>
+
+    <string name="recipe3">Firstly, in a large mixing bowl take ½ cup eggless mayonnaise.
+        Add in 2 tbsp green capsicum, 2 tbsp red capsicum, ¼ carrot, 2 tbsp corn, ¼ tsp pepper and ¼ tsp salt.
+        Mix well making sure everything is combined well.
+        Now spread a tsp of green chutney over a slice of bread.
+        Also spread 2 tbsp of prepared mayonnaise spread.
+        Further spread of tsp of more green chutney over another bread slice and place over stuffing.
+        Toast the sandwich with butter on both sides.
+        Finally, cut the bread into half and serve eggless mayonnaise sandwich.
+    </string>
+
+    <string name="q1">What is SARS-CoV-2?</string>
+
+    <string name="q1A">COVID-19</string>
+    <string name="q1B">Flu</string>
+    <string name="q1C">The 2019 novel coronavirus</string>
+    <string name="q1D">Common cold</string>
+
+    <string name="q2">What is COVID-19?</string>
+
+    <string name="q2A">The disease associated with the common cold virus</string>
+    <string name="q2B">The disease associated with the virus of flu</string>
+    <string name="q2C">The disease associated with the virus of EBOLA</string>
+    <string name="q2D">The disease associated with the virus SARS-CoV-2</string>
+
+    <string name="q3">What are the symptoms of COVID-19 infection?</string>
+
+    <string name="q3A">From no symptoms at all to anosmia, having fever, cough, sore throat, general weakness and fatigue and muscular pain and in the most severe cases, severe pneumonia, acute respiratory distress syndrome, sepsis and septic shock, all potentially leading to death</string>
+    <string name="q3B">Only anosmia and fever</string>
+    <string name="q3C">Diarrhoea</string>
+    <string name="q3D">Asymptomiatic</string>
+
+    <string name="q4">Are some people more at risk than others?</string>
+
+    <string name="q4A">No</string>
+    <string name="q4B">Babies and people above 85</string>
+    <string name="q4C">People above 70 years of age and those with underlying health conditions (e.g. hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer)</string>
+    <string name="q4D">People under 20 years</string>
+
+    <string name="q5">Where was 1st known case of coronavirus?</string>
+    <string name="q5A">Tokio</string>
+    <string name="q5B">Wuhan</string>
+    <string name="q5C">Beijing</string>
+    <string name="q5D">Hiroshima</string>
+
+
+    <string name="q6">When was 1st known case of coronavirus?</string>
+
+    <string name="q6A">12.2019</string>
+    <string name="q6B">01.2020</string>
+    <string name="q6C">11.2019</string>
+    <string name="q6D">02.2020</string>
+
+    <string name="q7">When coronavirus pandemic has starded in Poland?</string>
+
+    <string name="q7A">03.2020</string>
+    <string name="q7B">02.2020</string>
+    <string name="q7C">01.2020</string>
+    <string name="q7D">12.2020</string>
+
+    <string name="q8">Can coronaviruses be transmitted from person to person?</string>
+
+    <string name="q8A">Yes coronaviruses can be transmitted from person to person, usually after close contact with an infected patient</string>
+    <string name="q8B">Yes but only in China</string>
+    <string name="q8C">No, only from pets to person</string>
+    <string name="q8D">No</string>
+
+
+    <string name="q9">Is there a vaccine for a novel coronavirus?</string>
+
+    <string name="q9A">Yes</string>
+    <string name="q9B">It will be in pharmacies in May 2020.</string>
+    <string name="q9C">Only for babies.</string>
+    <string name="q9D">Not yet.</string>
 
 </resources>

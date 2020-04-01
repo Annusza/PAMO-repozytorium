@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.annusza.bmicalc.MainActivity">
+
+
+    <item
+        android:id="@+id/bmiNav"
+        android:icon="@drawable/ic_bmi_black_24dp"
+        android:title="@string/navBmi" />
+
+    <item
+        android:id="@+id/caloriesNav"
+        android:icon="@drawable/ic_calories_black_24dp"
+        android:title="@string/navCal" />
+    <item
+        android:id="@+id/foodNav"
+        android:icon="@drawable/ic_food_black_24dp"
+        android:title="@string/navRecipe"/>
+
+    <item
+        android:id="@+id/quizNav"
+        android:icon="@drawable/ic_quiz_black_24dp"
+        android:title="@string/navQuiz"/>
+
+    <item
+        android:id="@+id/statNav"
+        android:icon="@drawable/ic_stat_black_24dp"
+        android:title="@string/navStat"/>
+
+</menu>
